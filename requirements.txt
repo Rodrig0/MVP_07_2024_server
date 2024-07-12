@@ -1,0 +1,7 @@
+Flask==2.2.3
+Flask-Cors==3.0.10
+SQLAlchemy==2.0.12
+python-dotenv==1.0.0
+Flask-SQLAlchemy==3.0.3
+flask-smorest==0.41.0
+requests
